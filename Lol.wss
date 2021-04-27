@@ -1,0 +1,961 @@
+<site sitename="Lol" version="3.0" FullPath="C:\Users\SovietLian\Desktop\Pagina\Lol.wss"><css><a cssname="Standard"><link fontname="" fontstyle="N" fontsize="0" fontcolor="#FFFFFF" bgcolor=""/><hover fontname="" fontstyle="N" fontsize="0" fontcolor="#C0C0C0" bgcolor=""/><active fontname="" fontstyle="N" fontsize="0" fontcolor="#FFFFFF" bgcolor=""/><visited fontname="" fontstyle="N" fontsize="0" fontcolor="#FFFFFF" bgcolor=""/></a><a cssname="Otros"><link fontname="" fontstyle="N" fontsize="0" fontcolor="#32C8FF" bgcolor=""/><hover fontname="" fontstyle="" fontsize="0" fontcolor="#3366FF" bgcolor=""/><active fontname="" fontstyle="N" fontsize="0" fontcolor="#32C8FF" bgcolor=""/><visited fontname="" fontstyle="" fontsize="0" fontcolor="#00CCFF" bgcolor=""/></a></css><components><Component type="3" id="g_image2" zorder="17" filename="image21443156" left="874" top="10" width="343" height="251" originwidth="507" originheight="371" src="WSB://images\League_of_Legends_Wild_Rift_logo3.png" resample="1" previewfile="WSB://images\League_of_Legends_Wild_Rift_logo3.png" thumbnail="0" linkurl="page://p72631750" linktype="_self" linktitle="Home" tempfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\imgQTMLP.png" lock="1" bgcolor="#FFFFFF" borderstyle="0" bordercolor="#808080" borderwidth="3" alt="" changefilename="0" thumbname="thumb66343031" resamplename="img66343046" exportfilename="images/img66343046.png" include="p72631750,p21449078,p21607578,p21616046"/><Component type="2" id="g_text1" zorder="14" filename="text82756859" left="1061" top="275" width="137" height="25" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" include="p72631750,p21449078,p21607578,p21616046" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:21px" face="Gill Sans MT"&gt;&lt;B&gt;&lt;a href="page://p21616046" title="" target="_self" class="Standard"&gt;CONTACTO&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws16" face="Gill Sans MT"&gt;&lt;B&gt;&lt;a href="page://p21616046" title="" target="_self" class="Standard"&gt;CONTACTO&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqNAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhAFU3R5bGULBmZzQm9s
+ZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250
+TmFtZQYMR2lsbCBTYW5zIE1UBFNpemUCEAVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJC05leHRTdHlsZU5vAgMAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADQgMSAwIDAgMCAidXJsPXBhZ2U6Ly9wMjE2MTYwNDYsbGlua3RhcmdldD1fc2VsZixsaW5r
+c3R5bGU9U3RhbmRhcmQiDQpDT05UQUNUTw0K
+</rvf></Component><Component type="3" id="g_image3" zorder="13" filename="image82756859" left="1037" top="261" width="180" height="60" originwidth="180" originheight="60" src="WSB://images\Azul1c.png" resample="1" previewfile="WSB://images\Azul1c.png" linkurl="page://p21616046" linktype="_self" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" alt="" changefilename="0" tempfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\imgTADCS.png" thumbname="thumb66343062" resamplename="img66343078" exportfilename="images/Azul1c.png" include="p72631750,p21449078,p21607578,p21616046" lock="1"/><Component type="2" id="g_text2" zorder="9" filename="text80212812" left="860" top="274" width="147" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" include="p72631750,p21449078,p21607578,p21616046" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:21px" face="Gill Sans MT"&gt;&lt;B&gt;&lt;a href="page://p21607578" title="" target="_self" class="Standard"&gt;PRODUCTOS&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws16" face="Gill Sans MT"&gt;&lt;B&gt;&lt;a href="page://p21607578" title="" target="_self" class="Standard"&gt;PRODUCTOS&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqNAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhAFU3R5bGULBmZzQm9s
+ZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250
+TmFtZQYMR2lsbCBTYW5zIE1UBFNpemUCEAVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJC05leHRTdHlsZU5vAgMAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADQgMSAwIDAgMCAidXJsPXBhZ2U6Ly9wMjE2MDc1NzgsbGlua3RhcmdldD1fc2VsZixsaW5r
+c3R5bGU9U3RhbmRhcmQiDQpQUk9EVUNUT1MNCg==
+</rvf></Component><Component type="2" id="g_text3" zorder="8" filename="text80085671" left="663" top="275" width="143" height="25" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" linktype="_self" include="p72631750,p21449078,p21607578,p21616046" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:21px" face="Gill Sans MT"&gt;&lt;B&gt;&lt;a href="page://p21449078" title="" target="_self" class="Standard"&gt;CAMPEONES&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws16" face="Gill Sans MT"&gt;&lt;B&gt;&lt;a href="page://p21449078" title="" target="_self" class="Standard"&gt;CAMPEONES&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqNAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhAFU3R5bGULBmZzQm9s
+ZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250
+TmFtZQYMR2lsbCBTYW5zIE1UBFNpemUCEAVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJC05leHRTdHlsZU5vAgMAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADQgMSAwIDAgMCAidXJsPXBhZ2U6Ly9wMjE0NDkwNzgsbGlua3RhcmdldD1fc2VsZixsaW5r
+c3R5bGU9U3RhbmRhcmQiDQpDQU1QRU9ORVMNCg==
+</rvf></Component><Component type="2" id="g_text4" zorder="7" filename="text80036375" left="494" top="274" width="82" height="25" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" include="p72631750,p21449078,p21607578,p21616046" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:21px" face="Gill Sans MT"&gt;&lt;B&gt;&lt;a href="page://p73870750" title="" target="_self" class="Standard"&gt;ROLES&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws16" face="Gill Sans MT"&gt;&lt;B&gt;&lt;a href="page://p73870750" title="" target="_self" class="Standard"&gt;ROLES&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqNAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhAFU3R5bGULBmZzQm9s
+ZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250
+TmFtZQYMR2lsbCBTYW5zIE1UBFNpemUCEAVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJC05leHRTdHlsZU5vAgMAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADQgMSAwIDAgMCAidXJsPXBhZ2U6Ly9wNzM4NzA3NTAsbGlua3RhcmdldD1fc2VsZixsaW5r
+c3R5bGU9U3RhbmRhcmQiDQpST0xFUw0K
+</rvf></Component><Component type="3" id="g_image4" zorder="5" filename="image79778437" left="839" top="261" width="180" height="60" originwidth="180" originheight="60" src="WSB://images\Azul1c.png" resample="1" previewfile="WSB://images\Azul1c.png" linkurl="page://p21607578" linktype="_self" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" alt="" changefilename="0" tempfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\imgUU8TU.png" thumbname="thumb66343109" resamplename="img66343125" exportfilename="images/Azul1c.png" include="p72631750,p21449078,p21607578,p21616046" lock="1"/><Component type="3" id="g_image5" zorder="4" filename="image79774890" left="640" top="261" width="180" height="60" originwidth="180" originheight="60" src="WSB://images\Azul1c.png" resample="1" previewfile="WSB://images\Azul1c.png" linkurl="page://p21449078" linktype="_self" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" alt="" changefilename="0" tempfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\img27VBQ.png" thumbname="thumb66343093" resamplename="img66343109" exportfilename="images/Azul1c.png" include="p72631750,p21449078,p21607578,p21616046" lock="1"/><Component type="3" id="g_image6" zorder="3" filename="image79715234" left="442" top="260" width="180" height="60" originwidth="180" originheight="60" src="WSB://images\Azul1c.png" resample="1" previewfile="WSB://images\Azul1c.png" linkurl="page://p73870750" linktype="_self" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" alt="" changefilename="0" tempfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\imgIQEJ7.png" thumbname="thumb66343078" resamplename="img66343093" exportfilename="images/Azul1c.png" include="p72631750,p21449078,p21607578,p21616046" lock="1"/><Component type="3" id="g_image7" zorder="1" filename="image86057750" width="501" height="499" originwidth="654" originheight="652" src="WSB://images\paste6.jpg" previewfile="WSB://images\paste6.jpg" left="152" top="0" thumbname="thumb66343140" resamplename="img66343156" exportfilename="images/paste6.jpg" include="p72631750,p21449078,p21607578,p21616046" lock="1"/><Component type="4" id="g_shape1" zorder="0" filename="shape72785734" width="1089" height="939" bgcolor="#FFFFFF" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shapeT91QQ.gif" left="153" top="0" fillstyle="0" exportfilename="images/shape72785734.gif" include="p72631750,p21449078,p21607578,p21616046" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" lock="1"/></components><page id="p72631750" pageindex="0" name="index"><body title="League of Legends Wild Rift" author="Riot Games" keywords="Lol, League of legends, moba, mobile, Wild Rift" description="Jueguito de celu" generator="0" bgsoundloop="-1" align="1" backgroundcolor="#32C8FF" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="1" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgimage="WSB://images\PruebaFondo.png" bgpreview="WSB://images\PruebaFondo.png" bgfixed="" bgoutput="images/PruebaFondo.png"><Component type="3" id="image6" zorder="6" filename="image79890234" left="341" top="1100" width="240" height="80" originwidth="240" originheight="80" src="WSB://images\BotonNegro.png" resample="1" previewfile="WSB://images\BotonNegro.png" linkurl="https://play.google.com/store/apps/details?id=com.riotgames.league.wildrift&amp;referrer=singular_click_id%3D804bba1d-44f3-4dc3-b2c3-444a968fd650" linktype="_self" thumbname="thumb66343000" resamplename="img66343015" exportfilename="images/BotonNegro.png" lock="1"/><Component type="2" id="text4" zorder="12" filename="text81493156" left="385" top="1109" width="150" height="68" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" linkurl="https://play.google.com/store/apps/details?id=com.riotgames.league.wildrift&amp;referrer=singular_click_id%3D804bba1d-44f3-4dc3-b2c3-444a968fd650" linktype="_self" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:24px" color="#BEA98A" face="Gill Sans MT"&gt;&lt;B&gt;Descargalo &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:24px" color="#BEA98A" face="Gill Sans MT"&gt;&lt;B&gt;gratis&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws18" color="#BEA98A" face="Gill Sans MT"&gt;&lt;B&gt;Descargalo &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws18" color="#BEA98A" face="Gill Sans MT"&gt;&lt;B&gt;gratis&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoLAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhIFU3R5bGULBmZzQm9s
+ZAAFQ29sb3IEvqmKAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVm
+dCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQH
+CXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGln
+bm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFi
+bGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2Fu
+dFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAyIDEgMCAwIDAN
+CkRlc2NhcmdhbG8gDQpncmF0aXMNCg==
+</rvf></Component><Component id="g_shape1" zorder="0" global="1"/><Component type="3" id="image1" zorder="2" filename="image73502031" left="154" top="721" width="1088" height="612" originwidth="1200" originheight="675" src="WSB://images\1605800145_367625_1605800332_noticia_normal.jpg" resample="1" previewfile="WSB://images\1605800145_367625_1605800332_noticia_normal.jpg" tempfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\imgAOOHG.jpg" thumbname="thumb66343015" resamplename="img66343031" exportfilename="images/img66343031.jpg" lock="1"/><Component type="3" id="image7" zorder="10" filename="image81023812" left="171" top="740" width="590" height="342" originwidth="507" originheight="371" src="WSB://images\Borde-video2.png" resample="1" previewfile="WSB://images\Borde-video2.png" tempfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\img7MUBF.png" thumbname="thumb66343046" resamplename="img66343062" exportfilename="images/img66343062.png" lock="1"/><Component type="12" id="html1" zorder="11" filename="html80546765" script="&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/XKCjRWpfkC8&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;" width="558" height="314" left="188" top="755" lock="1"/><Component id="g_image3" zorder="13" global="1"/><Component id="g_text1" zorder="14" global="1"/><Component id="g_text4" zorder="7" global="1"/><Component id="g_image6" zorder="3" global="1"/><Component id="g_text3" zorder="8" global="1"/><Component id="g_image5" zorder="4" global="1"/><Component id="g_image4" zorder="5" global="1"/><Component id="g_text2" zorder="9" global="1"/><Component type="2" id="text6" zorder="15" filename="text84961796" left="729" top="409" width="490" height="274" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:29px" color="#2493BD" face="Gill Sans MT"&gt;&lt;B&gt;Bienvenido la grieta, invocador.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font face="Gill Sans MT"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font style="font-size:19px" face="Gill Sans MT"&gt;League of Legends es un juego de estrategia por equipos en el que dos equipos de cinco campeones se enfrentan para ver quién destruye antes la base del otro. Elige de entre un elenco de 140 campeones para realizar jugadas épicas, asesinar rivales y derribar torretas para alzarte con la victoria.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws22" color="#2493BD" face="Gill Sans MT"&gt;&lt;B&gt;Bienvenido la grieta, invocador.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=right&gt;&lt;font face="Gill Sans MT"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font class="ws14" face="Gill Sans MT"&gt;League of Legends es un juego de estrategia por equipos en el que dos equipos de cinco campeones se enfrentan para ver quién destruye antes la base del otro. Elige de entre un elenco de 140 campeones para realizar jugadas épicas, asesinar rivales y derribar torretas para alzarte con la victoria.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqGAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVAABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgxHaWxsIFNhbnMgTVQEU2l6ZQIOAAEJU3R5bGVOYW1l
+BgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhYFU3R5
+bGULBmZzQm9sZAAFQ29sb3IEJJO9AAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KTgEAAA4BCVN0eWxl
+TmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlB
+bGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBB
+bGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVBy
+b3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBh
+b0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQIU3RhbmRhcmQI
+CUFsaWdubWVudAcKcnZhSnVzdGlmeQdPcHRpb25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0K
+cnZzDQoCAAAADgA1IDEgMCAwIDAgMA0KQmllbnZlbmlkbyBsYSBncmlldGEsIGludm9jYWRvci4N
+CjMgMSAyIDAgMCAwDQoNCjQgMSA0IDAgMCAwDQpMZWFndWUgb2YgTGVnZW5kcyBlcyB1biBqdWVn
+byBkZSBlc3RyYXRlZ2lhIHBvciBlcXVpcG9zIGVuIGVsIHF1ZSBkb3MgZXF1aXBvcyBkZSBjaW5j
+byBjYW1wZW9uZXMgc2UgZW5mcmVudGFuIHBhcmEgdmVyIHF1aeluIGRlc3RydXllIGFudGVzIGxh
+IGJhc2UgZGVsIG90cm8uIEVsaWdlIGRlIGVudHJlIHVuIGVsZW5jbyBkZSAxNDAgY2FtcGVvbmVz
+IHBhcmEgcmVhbGl6YXIganVnYWRhcyDpcGljYXMsIGFzZXNpbmFyIHJpdmFsZXMgeSBkZXJyaWJh
+ciB0b3JyZXRhcyBwYXJhIGFsemFydGUgY29uIGxhIHZpY3RvcmlhLg0K
+</rvf></Component><Component type="3" id="image9" zorder="16" filename="image85887921" width="543" height="305" originwidth="1024" originheight="576" src="WSB://images\paste4.jpg" previewfile="WSB://images\paste4.jpg" left="169" top="379" thumbname="thumb66343125" resamplename="img66343140" exportfilename="images/paste4.jpg" lock="1"/><Component id="g_image7" zorder="1" global="1"/><Component id="g_image2" zorder="17" global="1"/></body></page><page id="p73870750" pageindex="1" name="roles"><body title="League of Legends Wild Rift" author="Riot Games" keywords="Lol, League of legends, moba, mobile, Wild Rift" description="Jueguito de celu" generator="0" bgsoundloop="-1" align="1" backgroundcolor="#32C8FF" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgimage="WSB://images\PruebaFondo.png" bgpreview="WSB://images\PruebaFondo.png" bgoutput="images/PruebaFondo.png"><Component type="2" id="text6" zorder="8" filename="text60980312" left="313" top="422" width="145" height="47" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:27px" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;&lt;a href="page://p75646703#to" title="" target="iFrame1" class="Standard"&gt;TOPLANE&lt;/a&gt;&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws20" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;&lt;a href="page://p75646703#to" title="" target="iFrame1" class="Standard"&gt;TOPLANE&lt;/a&gt;&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqGAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGD0FsZG8gdGhlIEFwYWNoZQRTaXplAhYFQ29sb3IEMsj/
+AAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgxHaWxsIFNhbnMg
+TVQEU2l6ZQIUBVN0eWxlCwZmc0JvbGQIZnNJdGFsaWMLZnNVbmRlcmxpbmUABUNvbG9yBwZjbEJs
+dWUESnVtcAkLTmV4dFN0eWxlTm8CAwAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxl
+TmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlB
+bGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBB
+bGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVBy
+b3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBh
+b0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANCAx
+IDEgMCAwICJ1cmw9cGFnZTovL3A3NTY0NjcwMyN0byxsaW5rdGFyZ2V0PWlGcmFtZTEsbGlua3N0
+eWxlPVN0YW5kYXJkIg0KVE9QTEFORQ0K
+</rvf></Component><Component type="18" id="iFrame1" zorder="9" filename="iFrame62851140" image1="F:\Backup Disco 1\I\Estudio\DG3\Segundo Cuatrimestre\Taller multimedia\Web Page Maker REYKIS RK\Component\arrow_up.gif" image2="F:\Backup Disco 1\I\Estudio\DG3\Segundo Cuatrimestre\Taller multimedia\Web Page Maker REYKIS RK\Component\arrow_down.gif" image3="" image4="" auto="0" direction="1" scroll="no" frameborder="0" frametype="0" src="p75646703" width="1051" height="316" left="168" top="504" lock="1"/><Component type="3" id="image2" zorder="3" filename="image64254406" left="306" top="414" width="165" height="55" originwidth="165" originheight="55" src="WSB://images\Azul2c.png" resample="1" previewfile="WSB://images\Azul2c.png" tempfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\imgE1AA7.png" thumbname="thumb66344046" resamplename="img66344062" exportfilename="images/Azul2c.png" linkurl="page://p75646703#to" linktype="iFrame1" lock="1"/><Component type="3" id="image7" zorder="4" filename="image64266531" left="490" top="414" width="165" height="55" originwidth="165" originheight="55" src="WSB://images\Azul2c.png" resample="1" previewfile="WSB://images\Azul2c.png" tempfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\imgF1IFA.png" thumbname="thumb66344062" resamplename="img66344078" exportfilename="images/Azul2c.png" linkurl="page://p75646703#jg" linktype="iFrame1" lock="1"/><Component type="3" id="image8" zorder="5" filename="image64270875" left="671" top="414" width="165" height="55" originwidth="165" originheight="55" src="WSB://images\Azul2c.png" resample="1" previewfile="WSB://images\Azul2c.png" tempfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\imgNJ31U.png" thumbname="thumb66344078" resamplename="img66344093" exportfilename="images/Azul2c.png" linkurl="page://p75646703#mid" linktype="iFrame1" lock="1"/><Component type="3" id="image10" zorder="6" filename="image64273937" left="855" top="414" width="165" height="55" originwidth="165" originheight="55" src="WSB://images\Azul2c.png" resample="1" previewfile="WSB://images\Azul2c.png" tempfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\img8T4TE.png" thumbname="thumb66344093" resamplename="img66344109" exportfilename="images/Azul2c.png" linkurl="page://p75646703#adc" linktype="iFrame1" lock="1"/><Component type="3" id="image11" zorder="7" filename="image64277750" left="1036" top="413" width="165" height="55" originwidth="165" originheight="55" src="WSB://images\Azul2c.png" resample="1" previewfile="WSB://images\Azul2c.png" tempfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\imgHI0U3.png" thumbname="thumb66344109" resamplename="img66344125" exportfilename="images/Azul2c.png" linkurl="page://p75646703#supp" linktype="iFrame1" lock="1"/><Component type="4" id="shape1" zorder="0" filename="shape16158734" width="1089" height="939" bgcolor="#FFFFFF" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shapeR730Q.gif" left="152" top="0" fillstyle="0" exportfilename="images/shape16158734.gif" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" lock="1"/><Component type="3" id="image1" zorder="1" filename="image16158734" width="501" height="499" originwidth="654" originheight="652" src="WSB://images\paste6.jpg" previewfile="WSB://images\paste6.jpg" left="152" top="0" thumbname="thumb66343140" resamplename="img66343156" exportfilename="images/paste6.jpg" lock="1"/><Component type="2" id="text5" zorder="10" filename="text16608609" left="495" top="425" width="153" height="45" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:27px" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;&lt;a href="page://p75646703#jg" title="" target="iFrame1" class="Standard"&gt;JUNGLA&lt;/a&gt;&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws20" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;&lt;a href="page://p75646703#jg" title="" target="iFrame1" class="Standard"&gt;JUNGLA&lt;/a&gt;&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqGAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGD0FsZG8gdGhlIEFwYWNoZQRTaXplAhYFQ29sb3IEMsj/
+AAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgxHaWxsIFNhbnMg
+TVQEU2l6ZQIUBVN0eWxlCwZmc0JvbGQIZnNJdGFsaWMLZnNVbmRlcmxpbmUABUNvbG9yBwZjbEJs
+dWUESnVtcAkLTmV4dFN0eWxlTm8CAwAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxl
+TmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlB
+bGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBB
+bGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVBy
+b3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBh
+b0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANCAx
+IDEgMCAwICJ1cmw9cGFnZTovL3A3NTY0NjcwMyNqZyxsaW5rdGFyZ2V0PWlGcmFtZTEsbGlua3N0
+eWxlPVN0YW5kYXJkIg0KSlVOR0xBDQo=
+</rvf></Component><Component type="2" id="text7" zorder="11" filename="text16632718" left="677" top="423" width="154" height="46" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:27px" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;&lt;a href="page://p75646703#mid" title="" target="iFrame1" class="Standard"&gt;MIDLANE&lt;/a&gt;&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws20" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;&lt;a href="page://p75646703#mid" title="" target="iFrame1" class="Standard"&gt;MIDLANE&lt;/a&gt;&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqGAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGD0FsZG8gdGhlIEFwYWNoZQRTaXplAhYFQ29sb3IEMsj/
+AAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgxHaWxsIFNhbnMg
+TVQEU2l6ZQIUBVN0eWxlCwZmc0JvbGQIZnNJdGFsaWMLZnNVbmRlcmxpbmUABUNvbG9yBwZjbEJs
+dWUESnVtcAkLTmV4dFN0eWxlTm8CAwAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxl
+TmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlB
+bGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBB
+bGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVBy
+b3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBh
+b0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANCAx
+IDEgMCAwICJ1cmw9cGFnZTovL3A3NTY0NjcwMyNtaWQsbGlua3RhcmdldD1pRnJhbWUxLGxpbmtz
+dHlsZT1TdGFuZGFyZCINCk1JRExBTkUNCg==
+</rvf></Component><Component type="2" id="text8" zorder="12" filename="text16658734" left="861" top="425" width="151" height="42" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:27px" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;&lt;a href="page://p75646703#adc" title="" target="iFrame1" class="Standard"&gt;ADC&lt;/a&gt;&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws20" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;&lt;a href="page://p75646703#adc" title="" target="iFrame1" class="Standard"&gt;ADC&lt;/a&gt;&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqGAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGD0FsZG8gdGhlIEFwYWNoZQRTaXplAhYFQ29sb3IEMsj/
+AAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgxHaWxsIFNhbnMg
+TVQEU2l6ZQIUBVN0eWxlCwZmc0JvbGQIZnNJdGFsaWMLZnNVbmRlcmxpbmUABUNvbG9yBwZjbEJs
+dWUESnVtcAkLTmV4dFN0eWxlTm8CAwAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxl
+TmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlB
+bGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBB
+bGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVBy
+b3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBh
+b0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANCAx
+IDEgMCAwICJ1cmw9cGFnZTovL3A3NTY0NjcwMyNhZGMsbGlua3RhcmdldD1pRnJhbWUxLGxpbmtz
+dHlsZT1TdGFuZGFyZCINCkFEQw0K
+</rvf></Component><Component type="2" id="text9" zorder="13" filename="text16678218" left="1043" top="422" width="154" height="46" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:27px" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;&lt;a href="page://p75646703#supp" title="" target="iFrame1" class="Standard"&gt;APOYO&lt;/a&gt;&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws20" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;&lt;a href="page://p75646703#supp" title="" target="iFrame1" class="Standard"&gt;APOYO&lt;/a&gt;&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqGAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGD0FsZG8gdGhlIEFwYWNoZQRTaXplAhYFQ29sb3IEMsj/
+AAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgxHaWxsIFNhbnMg
+TVQEU2l6ZQIUBVN0eWxlCwZmc0JvbGQIZnNJdGFsaWMLZnNVbmRlcmxpbmUABUNvbG9yBwZjbEJs
+dWUESnVtcAkLTmV4dFN0eWxlTm8CAwAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxl
+TmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlB
+bGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBB
+bGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVBy
+b3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBh
+b0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANCAx
+IDEgMCAwICJ1cmw9cGFnZTovL3A3NTY0NjcwMyNzdXBwLGxpbmt0YXJnZXQ9aUZyYW1lMSxsaW5r
+c3R5bGU9U3RhbmRhcmQiDQpBUE9ZTw0K
+</rvf></Component><Component type="3" id="image3" zorder="2" filename="image16158734" left="874" top="10" width="343" height="251" originwidth="507" originheight="371" src="WSB://images\League_of_Legends_Wild_Rift_logo3.png" resample="1" previewfile="WSB://images\League_of_Legends_Wild_Rift_logo3.png" thumbnail="0" linkurl="page://p72631750" linktype="_self" linktitle="Home" tempfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\img7JG7N.png" lock="1" bgcolor="#FFFFFF" borderstyle="0" bordercolor="#808080" borderwidth="3" alt="" changefilename="0" thumbname="thumb66343031" resamplename="img66343046" exportfilename="images/img66343046.png"/><Component type="3" id="image4" zorder="14" filename="image32431000" left="442" top="260" width="180" height="60" originwidth="180" originheight="60" src="WSB://images\Azul1c.png" resample="1" previewfile="WSB://images\Azul1c.png" linkurl="page://p73870750" linktype="_self" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" alt="" changefilename="0" tempfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\imgIQEJ7.png" thumbname="thumb66343078" resamplename="img66343093" exportfilename="images/Azul1c.png" lock="1"/><Component type="3" id="image5" zorder="15" filename="image32431000" left="640" top="261" width="180" height="60" originwidth="180" originheight="60" src="WSB://images\Azul1c.png" resample="1" previewfile="WSB://images\Azul1c.png" linkurl="page://p21449078" linktype="_self" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" alt="" changefilename="0" tempfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\img27VBQ.png" thumbname="thumb66343093" resamplename="img66343109" exportfilename="images/Azul1c.png" lock="1"/><Component type="3" id="image6" zorder="16" filename="image32431000" left="839" top="261" width="180" height="60" originwidth="180" originheight="60" src="WSB://images\Azul1c.png" resample="1" previewfile="WSB://images\Azul1c.png" linkurl="page://p21607578" linktype="_self" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" alt="" changefilename="0" tempfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\imgUU8TU.png" thumbname="thumb66343109" resamplename="img66343125" exportfilename="images/Azul1c.png" lock="1"/><Component type="2" id="text1" zorder="17" filename="text32431000" left="494" top="274" width="82" height="25" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:21px" face="Gill Sans MT"&gt;&lt;B&gt;&lt;a href="page://p73870750" title="" target="_self" class="Standard"&gt;ROLES&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws16" face="Gill Sans MT"&gt;&lt;B&gt;&lt;a href="page://p73870750" title="" target="_self" class="Standard"&gt;ROLES&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqNAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhAFU3R5bGULBmZzQm9s
+ZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250
+TmFtZQYMR2lsbCBTYW5zIE1UBFNpemUCEAVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJC05leHRTdHlsZU5vAgMAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADQgMSAwIDAgMCAidXJsPXBhZ2U6Ly9wNzM4NzA3NTAsbGlua3RhcmdldD1fc2VsZixsaW5r
+c3R5bGU9U3RhbmRhcmQiDQpST0xFUw0K
+</rvf></Component><Component type="2" id="text2" zorder="18" filename="text32431000" left="663" top="275" width="143" height="25" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" linktype="_self" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:21px" face="Gill Sans MT"&gt;&lt;B&gt;&lt;a href="page://p21449078" title="" target="_self" class="Standard"&gt;CAMPEONES&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws16" face="Gill Sans MT"&gt;&lt;B&gt;&lt;a href="page://p21449078" title="" target="_self" class="Standard"&gt;CAMPEONES&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqNAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhAFU3R5bGULBmZzQm9s
+ZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250
+TmFtZQYMR2lsbCBTYW5zIE1UBFNpemUCEAVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJC05leHRTdHlsZU5vAgMAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADQgMSAwIDAgMCAidXJsPXBhZ2U6Ly9wMjE0NDkwNzgsbGlua3RhcmdldD1fc2VsZixsaW5r
+c3R5bGU9U3RhbmRhcmQiDQpDQU1QRU9ORVMNCg==
+</rvf></Component><Component type="2" id="text3" zorder="19" filename="text32431000" left="860" top="274" width="147" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:21px" face="Gill Sans MT"&gt;&lt;B&gt;&lt;a href="page://p21607578" title="" target="_self" class="Standard"&gt;PRODUCTOS&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws16" face="Gill Sans MT"&gt;&lt;B&gt;&lt;a href="page://p21607578" title="" target="_self" class="Standard"&gt;PRODUCTOS&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqNAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhAFU3R5bGULBmZzQm9s
+ZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250
+TmFtZQYMR2lsbCBTYW5zIE1UBFNpemUCEAVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJC05leHRTdHlsZU5vAgMAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADQgMSAwIDAgMCAidXJsPXBhZ2U6Ly9wMjE2MDc1NzgsbGlua3RhcmdldD1fc2VsZixsaW5r
+c3R5bGU9U3RhbmRhcmQiDQpQUk9EVUNUT1MNCg==
+</rvf></Component><Component type="3" id="image9" zorder="20" filename="image32431000" left="1037" top="261" width="180" height="60" originwidth="180" originheight="60" src="WSB://images\Azul1c.png" resample="1" previewfile="WSB://images\Azul1c.png" linkurl="page://p21616046" linktype="_self" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" alt="" changefilename="0" tempfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\imgTADCS.png" thumbname="thumb66343062" resamplename="img66343078" exportfilename="images/Azul1c.png" lock="1"/><Component type="2" id="text4" zorder="21" filename="text32431000" left="1061" top="275" width="137" height="25" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:21px" face="Gill Sans MT"&gt;&lt;B&gt;&lt;a href="page://p21616046" title="" target="_self" class="Standard"&gt;CONTACTO&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws16" face="Gill Sans MT"&gt;&lt;B&gt;&lt;a href="page://p21616046" title="" target="_self" class="Standard"&gt;CONTACTO&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqNAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhAFU3R5bGULBmZzQm9s
+ZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250
+TmFtZQYMR2lsbCBTYW5zIE1UBFNpemUCEAVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJC05leHRTdHlsZU5vAgMAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADQgMSAwIDAgMCAidXJsPXBhZ2U6Ly9wMjE2MTYwNDYsbGlua3RhcmdldD1fc2VsZixsaW5r
+c3R5bGU9U3RhbmRhcmQiDQpDT05UQUNUTw0K
+</rvf></Component></body></page><page id="p75646703" pageindex="2" name="champs"><body><Component type="4" id="shape1" zorder="0" filename="shape61770671" left="21" top="20" width="486" height="316" bgcolor="#2493BD" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" lock="1" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shape5DJ1J.gif" exportfilename="images/shape61770671.gif"/><Component type="4" id="shape2" zorder="1" filename="shape61817906" left="20" top="122" width="487" height="214" bgcolor="#FFFFFF" fillstyle="0" lock="1" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shape5RCN4.gif" exportfilename="images/shape61817906.gif"/><Component type="2" id="text2" zorder="2" filename="text61891531" left="41" top="134" width="445" height="181" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:21px" face="Gill Sans MT"&gt;Los campeones de la calle inferior son la dinamita del equipo. Hay que protegerlos al comienzo de la partida para asegurarse de que consiguen suficiente oro y experiencia para llevar al equipo a la victoria.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws16" face="Gill Sans MT"&gt;Los campeones de la calle inferior son la dinamita del equipo. Hay que protegerlos al comienzo de la partida para asegurarse de que consiguen suficiente oro y experiencia para llevar al equipo a la victoria.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrxAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhAAAC05IDIgMCAwIDIg
+MCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkR
+cnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAw
+IDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpMb3MgY2FtcGVvbmVzIGRlIGxhIGNhbGxl
+IGluZmVyaW9yIHNvbiBsYSBkaW5hbWl0YSBkZWwgZXF1aXBvLiBIYXkgcXVlIHByb3RlZ2VybG9z
+IGFsIGNvbWllbnpvIGRlIGxhIHBhcnRpZGEgcGFyYSBhc2VndXJhcnNlIGRlIHF1ZSBjb25zaWd1
+ZW4gc3VmaWNpZW50ZSBvcm8geSBleHBlcmllbmNpYSBwYXJhIGxsZXZhciBhbCBlcXVpcG8gYSBs
+YSB2aWN0b3JpYS4NCg==
+</rvf></Component><Component type="4" id="shape3" zorder="3" filename="shape62042187" left="21" top="360" width="486" height="316" bgcolor="#2493BD" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shape4LF80.gif" exportfilename="images/shape62042187.gif" lock="1"/><Component type="4" id="shape4" zorder="4" filename="shape62042187" left="20" top="462" width="487" height="214" bgcolor="#FFFFFF" fillstyle="0" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shape9EEMN.gif" exportfilename="images/shape62042188.gif" lock="1"/><Component type="2" id="text4" zorder="5" filename="text62042187" left="41" top="474" width="445" height="181" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:21px" face="Gill Sans MT"&gt;Los campeones de la calle central cuentan con un gran daño explosivo y funcionan muy bien tanto de forma independiente como en equipo. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:21px" face="Gill Sans MT"&gt;Para ellos, el combate es una peligrosa danza que consiste en encontrar el momento idóneo para acabar con su rival.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws16" face="Gill Sans MT"&gt;Los campeones de la calle central cuentan con un gran daño explosivo y funcionan muy bien tanto de forma independiente como en equipo. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws16" face="Gill Sans MT"&gt;Para ellos, el combate es una peligrosa danza que consiste en encontrar el momento idóneo para acabar con su rival.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrxAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhAAAC05IDIgMCAwIDIg
+MCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkR
+cnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAw
+IDIgMCA0DQpydnMNCgIAAAAOADMgMiAwIDAgMCAwDQpMb3MgY2FtcGVvbmVzIGRlIGxhIGNhbGxl
+IGNlbnRyYWwgY3VlbnRhbiBjb24gdW4gZ3JhbiBkYfFvIGV4cGxvc2l2byB5IGZ1bmNpb25hbiBt
+dXkgYmllbiB0YW50byBkZSBmb3JtYSBpbmRlcGVuZGllbnRlIGNvbW8gZW4gZXF1aXBvLiANClBh
+cmEgZWxsb3MsIGVsIGNvbWJhdGUgZXMgdW5hIHBlbGlncm9zYSBkYW56YSBxdWUgY29uc2lzdGUg
+ZW4gZW5jb250cmFyIGVsIG1vbWVudG8gaWTzbmVvIHBhcmEgYWNhYmFyIGNvbiBzdSByaXZhbC4N
+Cg==
+</rvf></Component><Component type="4" id="shape5" zorder="6" filename="shape62059843" left="20" top="700" width="486" height="316" bgcolor="#2493BD" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shape7UI3H.gif" exportfilename="images/shape62059843.gif" lock="1"/><Component type="4" id="shape6" zorder="7" filename="shape62059843" left="19" top="802" width="487" height="214" bgcolor="#FFFFFF" fillstyle="0" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shapeUQ9JT.gif" exportfilename="images/shape62059844.gif" lock="1"/><Component type="2" id="text6" zorder="8" filename="text62059843" left="40" top="814" width="445" height="181" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:21px" face="Gill Sans MT"&gt;Los campeones de apoyo son los protectores del equipo. Mantienen con vida a sus aliados y se centran en que consigan asesinatos, así como en proteger a su compañero de la calle inferior hasta que se vuelva más fuerte.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws16" face="Gill Sans MT"&gt;Los campeones de apoyo son los protectores del equipo. Mantienen con vida a sus aliados y se centran en que consigan asesinatos, así como en proteger a su compañero de la calle inferior hasta que se vuelva más fuerte.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrxAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhAAAC05IDIgMCAwIDIg
+MCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkR
+cnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAw
+IDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpMb3MgY2FtcGVvbmVzIGRlIGFwb3lvIHNv
+biBsb3MgcHJvdGVjdG9yZXMgZGVsIGVxdWlwby4gTWFudGllbmVuIGNvbiB2aWRhIGEgc3VzIGFs
+aWFkb3MgeSBzZSBjZW50cmFuIGVuIHF1ZSBjb25zaWdhbiBhc2VzaW5hdG9zLCBhc+0gY29tbyBl
+biBwcm90ZWdlciBhIHN1IGNvbXBh8WVybyBkZSBsYSBjYWxsZSBpbmZlcmlvciBoYXN0YSBxdWUg
+c2UgdnVlbHZhIG3hcyBmdWVydGUuDQo=
+</rvf></Component><Component type="4" id="shape7" zorder="9" filename="shape62072437" left="22" top="1049" width="486" height="316" bgcolor="#2493BD" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shape3L7MT.gif" exportfilename="images/shape62072437.gif" lock="1"/><Component type="4" id="shape8" zorder="10" filename="shape62072437" left="21" top="1151" width="487" height="214" bgcolor="#FFFFFF" fillstyle="0" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shape66GS7.gif" exportfilename="images/shape62072438.gif" lock="1"/><Component type="2" id="text7" zorder="11" filename="text62072437" left="50" top="1067" width="206" height="69" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:48px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;JUNGLA&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws36" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;JUNGLA&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoYAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAiQFU3R5bGULBmZzQm9s
+ZAhmc0l0YWxpYwAFQ29sb3IHB2NsV2hpdGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlT
+dHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVy
+ZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmln
+aHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+Bg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QV
+cnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAO
+ADMgMSAxIDAgMCAwDQpKVU5HTEENCg==
+</rvf></Component><Component type="2" id="text8" zorder="12" filename="text62072437" left="42" top="1163" width="445" height="181" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:21px" face="Gill Sans MT"&gt;Los junglas dedican su partida a la caza. Se sirven de su destreza y sigilo para saltar de una calle a otra, se encargan de vigilar los monstruos neutrales más importantes y atacan en el momento preciso cuando un enemigo baja la guardia.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws16" face="Gill Sans MT"&gt;Los junglas dedican su partida a la caza. Se sirven de su destreza y sigilo para saltar de una calle a otra, se encargan de vigilar los monstruos neutrales más importantes y atacan en el momento preciso cuando un enemigo baja la guardia.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrxAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhAAAC05IDIgMCAwIDIg
+MCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkR
+cnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAw
+IDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpMb3MganVuZ2xhcyBkZWRpY2FuIHN1IHBh
+cnRpZGEgYSBsYSBjYXphLiBTZSBzaXJ2ZW4gZGUgc3UgZGVzdHJlemEgeSBzaWdpbG8gcGFyYSBz
+YWx0YXIgZGUgdW5hIGNhbGxlIGEgb3RyYSwgc2UgZW5jYXJnYW4gZGUgdmlnaWxhciBsb3MgbW9u
+c3RydW9zIG5ldXRyYWxlcyBt4XMgaW1wb3J0YW50ZXMgeSBhdGFjYW4gZW4gZWwgbW9tZW50byBw
+cmVjaXNvIGN1YW5kbyB1biBlbmVtaWdvIGJhamEgbGEgZ3VhcmRpYS4NCg==
+</rvf></Component><Component type="4" id="shape9" zorder="13" filename="shape62108015" left="20" top="1399" width="486" height="316" bgcolor="#2493BD" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shapeJG462.gif" exportfilename="images/shape62108015.gif" lock="1"/><Component type="4" id="shape10" zorder="14" filename="shape62108015" left="19" top="1501" width="487" height="214" bgcolor="#FFFFFF" fillstyle="0" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shape1N83I.gif" exportfilename="images/shape62108016.gif" lock="1"/><Component type="2" id="text10" zorder="15" filename="text62108015" left="40" top="1513" width="445" height="181" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:21px" face="Gill Sans MT"&gt;Los campeones de la calle superior son los luchadores solitarios por excelencia. Su trabajo es proteger su calle y centrarse en eliminar a las mayores amenazas del equipo enemigo.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws16" face="Gill Sans MT"&gt;Los campeones de la calle superior son los luchadores solitarios por excelencia. Su trabajo es proteger su calle y centrarse en eliminar a las mayores amenazas del equipo enemigo.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrxAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhAAAC05IDIgMCAwIDIg
+MCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkR
+cnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAw
+IDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpMb3MgY2FtcGVvbmVzIGRlIGxhIGNhbGxl
+IHN1cGVyaW9yIHNvbiBsb3MgbHVjaGFkb3JlcyBzb2xpdGFyaW9zIHBvciBleGNlbGVuY2lhLiBT
+dSB0cmFiYWpvIGVzIHByb3RlZ2VyIHN1IGNhbGxlIHkgY2VudHJhcnNlIGVuIGVsaW1pbmFyIGEg
+bGFzIG1heW9yZXMgYW1lbmF6YXMgZGVsIGVxdWlwbyBlbmVtaWdvLg0K
+</rvf></Component><Component type="3" id="image6" zorder="16" filename="image21148406" left="506" top="20" width="540" height="304" originwidth="540" originheight="304" src="WSB://images\Ashe.gif" resample="1" previewfile="WSB://images\Ashe.gif" thumbname="thumb21663343" resamplename="img21663359" exportfilename="images/Ashe.gif" lock="1"/><Component type="3" id="image1" zorder="17" filename="image21196078" left="506" top="360" width="540" height="304" originwidth="540" originheight="304" src="WSB://images\Ahri.gif" resample="1" previewfile="WSB://images\Ahri.gif" thumbname="thumb21663359" resamplename="img21663375" exportfilename="images/Ahri.gif" lock="1"/><Component type="3" id="image2" zorder="18" filename="image21232140" left="506" top="700" width="540" height="304" originwidth="540" originheight="304" src="WSB://images\Blitz.gif" resample="1" previewfile="WSB://images\Blitz.gif" thumbname="thumb21663375" resamplename="img21663406" exportfilename="images/Blitz.gif" lock="1"/><Component type="3" id="image3" zorder="19" filename="image21251859" left="507" top="1049" width="540" height="304" originwidth="540" originheight="304" src="WSB://images\AmastroYi.gif" resample="1" previewfile="WSB://images\AmastroYi.gif" thumbname="thumb21663406" resamplename="img21663421" exportfilename="images/AmastroYi.gif" lock="1"/><Component type="3" id="image4" zorder="20" filename="image21275171" left="505" top="1399" width="540" height="304" originwidth="540" originheight="304" src="WSB://images\Garen.gif" resample="1" previewfile="WSB://images\Garen.gif" thumbname="thumb21663421" resamplename="img21663437" exportfilename="images/Garen.gif" lock="1"/><Component type="2" id="text1" zorder="21" filename="text36603890" left="49" top="1414" width="232" height="69" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:48px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;TOPLANE&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws36" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;TOPLANE&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoYAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAiQFU3R5bGULBmZzQm9s
+ZAhmc0l0YWxpYwAFQ29sb3IHB2NsV2hpdGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlT
+dHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVy
+ZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmln
+aHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+Bg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QV
+cnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAO
+ADMgMSAxIDAgMCAwDQpUT1BMQU5FDQo=
+</rvf></Component><Component type="2" id="text3" zorder="22" filename="text36716218" left="47" top="715" width="188" height="69" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:48px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;APOYO&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws36" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;APOYO&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoYAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAiQFU3R5bGULBmZzQm9s
+ZAhmc0l0YWxpYwAFQ29sb3IHB2NsV2hpdGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlT
+dHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVy
+ZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmln
+aHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+Bg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QV
+cnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAO
+ADMgMSAxIDAgMCAwDQpBUE9ZTw0K
+</rvf></Component><Component type="2" id="text5" zorder="23" filename="text36719890" left="47" top="376" width="220" height="69" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:48px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;MIDLANE&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws36" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;MIDLANE&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoYAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAiQFU3R5bGULBmZzQm9s
+ZAhmc0l0YWxpYwAFQ29sb3IHB2NsV2hpdGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlT
+dHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVy
+ZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmln
+aHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+Bg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QV
+cnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAO
+ADMgMSAxIDAgMCAwDQpNSURMQU5FDQo=
+</rvf></Component><Component type="2" id="text9" zorder="24" filename="text36725218" left="47" top="35" width="122" height="69" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:48px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;ADC&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws36" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;ADC&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoYAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAiQFU3R5bGULBmZzQm9s
+ZAhmc0l0YWxpYwAFQ29sb3IHB2NsV2hpdGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlT
+dHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVy
+ZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmln
+aHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+Bg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QV
+cnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAO
+ADMgMSAxIDAgMCAwDQpBREMNCg==
+</rvf></Component><Component type="16" id="bookmark1" zorder="25" filename="bookmark36997140" bookname="adc" width="1029" height="305" left="20" top="20" lock="1"/><Component type="16" id="bookmark2" zorder="26" filename="bookmark37043640" bookname="mid" width="1029" height="304" left="19" top="360" lock="1"/><Component type="16" id="bookmark3" zorder="27" filename="bookmark37063000" bookname="supp" width="1029" height="305" left="20" top="700" lock="1"/><Component type="16" id="bookmark4" zorder="28" filename="bookmark37085375" bookname="jg" width="1027" height="304" left="22" top="1049" lock="1"/><Component type="16" id="bookmark5" zorder="29" filename="bookmark37102375" bookname="to" width="1025" height="307" left="20" top="1399" lock="1"/></body></page><page id="p21449078" pageindex="3" name="campeones"><body generator="0" bgsoundloop="-1" align="1" backgroundcolor="#32C8FF" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgimage="WSB://images\PruebaFondo.png" bgpreview="WSB://images\PruebaFondo.png" bgoutput="images/PruebaFondo.png"><Component id="g_shape1" zorder="0" global="1"/><Component id="g_image7" zorder="1" global="1"/><Component id="g_image6" zorder="2" global="1"/><Component id="g_image5" zorder="3" global="1"/><Component id="g_image4" zorder="4" global="1"/><Component id="g_text4" zorder="5" global="1"/><Component id="g_text3" zorder="6" global="1"/><Component id="g_text2" zorder="7" global="1"/><Component id="g_image3" zorder="8" global="1"/><Component id="g_text1" zorder="9" global="1"/><Component id="g_image2" zorder="10" global="1"/><Component type="3" id="image3" zorder="12" filename="image27321562" width="120" height="120" originwidth="120" originheight="120" src="WSB://images\paste9.jpg" previewfile="WSB://images\paste9.jpg" left="315" top="375" linkurl="page://p27479703#Akali" linktype="iFrame1" thumbname="thumb29763140" resamplename="img29763171" exportfilename="images/paste9.jpg" lock="1"/><Component type="3" id="image4" zorder="13" filename="image27345437" width="120" height="120" originwidth="120" originheight="120" src="WSB://images\paste10.jpg" previewfile="WSB://images\paste10.jpg" left="455" top="375" linkurl="page://p27479703#Alistair" linktype="iFrame1" thumbname="thumb29763171" resamplename="img29763187" exportfilename="images/paste10.jpg" lock="1"/><Component type="3" id="image5" zorder="14" filename="image27367625" width="120" height="120" originwidth="120" originheight="120" src="WSB://images\paste11.jpg" previewfile="WSB://images\paste11.jpg" left="174" top="512" linkurl="page://p27479703#Amumu" linktype="iFrame1" thumbname="thumb29763187" resamplename="img29763203" exportfilename="images/paste11.jpg" lock="1"/><Component type="3" id="image7" zorder="15" filename="image27413468" width="120" height="120" originwidth="120" originheight="120" src="WSB://images\paste13.jpg" previewfile="WSB://images\paste13.jpg" left="313" top="513" linkurl="page://p27479703#Annie" linktype="iFrame1" thumbname="thumb29763203" resamplename="img29763218" exportfilename="images/paste13.jpg" lock="1"/><Component type="3" id="image9" zorder="16" filename="image27449171" width="120" height="120" originwidth="120" originheight="120" src="WSB://images\paste15.jpg" previewfile="WSB://images\paste15.jpg" left="454" top="516" linkurl="page://p27479703#Ashe" linktype="iFrame1" thumbname="thumb29763218" resamplename="img29763250" exportfilename="images/paste15.jpg" lock="1"/><Component type="18" id="iFrame1" zorder="17" filename="iFrame27567562" image1="F:\Backup Disco 1\I\Estudio\DG3\Segundo Cuatrimestre\Taller multimedia\Web Page Maker REYKIS RK\Component\arrow_up.gif" image2="F:\Backup Disco 1\I\Estudio\DG3\Segundo Cuatrimestre\Taller multimedia\Web Page Maker REYKIS RK\Component\arrow_down.gif" image3="" image4="" auto="0" direction="1" scroll="no" frameborder="0" frametype="0" src="p27479703" width="622" height="403" left="596" top="373" lock="1"/><Component type="3" id="image2" zorder="11" filename="image27291203" width="120" height="120" originwidth="120" originheight="120" src="WSB://images\paste8.jpg" previewfile="WSB://images\paste8.jpg" left="175" top="375" linkurl="page://p27479703#Ahri" linktype="iFrame1" thumbname="thumb29763250" resamplename="img29763265" exportfilename="images/paste8.jpg" thumbnail="0" lock="1"/><Component type="3" id="image1" zorder="18" filename="image28026593" width="120" height="120" originwidth="120" originheight="120" src="WSB://images\paste18.jpg" previewfile="WSB://images\paste18.jpg" left="174" top="648" linkurl="page://p27479703#Aurelion" linktype="iFrame1" thumbname="thumb29763265" resamplename="img29763281" exportfilename="images/paste18.jpg" lock="1"/><Component type="3" id="image6" zorder="19" filename="image28051250" width="120" height="120" originwidth="120" originheight="120" src="WSB://images\paste19.jpg" previewfile="WSB://images\paste19.jpg" left="312" top="649" linkurl="page://p27479703#Blitz" linktype="iFrame1" thumbname="thumb29763281" resamplename="img29763312" exportfilename="images/paste19.jpg" lock="1"/><Component type="3" id="image8" zorder="20" filename="image28081468" width="120" height="120" originwidth="120" originheight="120" src="WSB://images\paste20.jpg" previewfile="WSB://images\paste20.jpg" left="453" top="650" linkurl="page://p27479703#Braum" linktype="iFrame1" thumbname="thumb29763312" resamplename="img29763328" exportfilename="images/paste20.jpg" lock="1"/><Component type="3" id="image10" zorder="21" filename="image36151343" left="288" top="802" width="165" height="55" originwidth="165" originheight="55" src="WSB://images\Azul2c.png" resample="1" previewfile="WSB://images\Azul2c.png" tempfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\imgNJ31U.png" thumbname="thumb66344078" resamplename="img66344093" exportfilename="images/Azul2c.png" lock="1"/><Component type="2" id="text1" zorder="22" filename="text36151343" left="294" top="811" width="154" height="46" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:24px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;Ver mas...&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws18" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;Ver mas...&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoPAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhIFU3R5bGULBmZzQm9s
+ZAAFQ29sb3IHB2NsV2hpdGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUG
+CkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25t
+ZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24J
+QWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0
+IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05v
+dFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAg
+MCAwDQpWZXIgbWFzLi4uDQo=
+</rvf></Component></body></page><page id="p21607578" pageindex="4" name="productos"><body generator="0" bgsoundloop="-1" align="1" backgroundcolor="#32C8FF" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgimage="WSB://images\PruebaFondo.png" bgpreview="WSB://images\PruebaFondo.png" bgoutput="images/PruebaFondo.png"><Component id="g_shape1" zorder="0" global="1"/><Component id="g_image7" zorder="1" global="1"/><Component id="g_image6" zorder="2" global="1"/><Component id="g_image5" zorder="3" global="1"/><Component id="g_image4" zorder="4" global="1"/><Component id="g_text4" zorder="5" global="1"/><Component id="g_text3" zorder="7" global="1"/><Component id="g_text2" zorder="8" global="1"/><Component id="g_image3" zorder="9" global="1"/><Component id="g_text1" zorder="10" global="1"/><Component id="g_image2" zorder="6" global="1"/><Component type="3" id="image1" zorder="11" filename="image30027468" width="331" height="186" originwidth="1920" originheight="1080" src="WSB://images\paste34.jpg" previewfile="WSB://images\paste34.jpg" left="174" top="368" lock="1" thumbname="thumb37815703" resamplename="img37815734" exportfilename="images/paste34.jpg"/><Component type="3" id="image2" zorder="12" filename="image30027468" width="332" height="187" originwidth="1920" originheight="1080" src="WSB://images\paste35.jpg" previewfile="WSB://images\paste35.jpg" left="528" top="367" lock="1" thumbname="thumb37815734" resamplename="img37815750" exportfilename="images/paste35.jpg"/><Component type="3" id="image3" zorder="13" filename="image30027468" width="331" height="186" originwidth="1920" originheight="1080" src="WSB://images\paste36.jpg" previewfile="WSB://images\paste36.jpg" left="882" top="367" lock="1" thumbname="thumb37815750" resamplename="img37815765" exportfilename="images/paste36.jpg"/><Component type="3" id="image4" zorder="14" filename="image30027468" width="331" height="186" originwidth="1920" originheight="1080" src="WSB://images\paste37.jpg" previewfile="WSB://images\paste37.jpg" left="174" top="648" lock="1" thumbname="thumb37815765" resamplename="img37815781" exportfilename="images/paste37.jpg"/><Component type="3" id="image5" zorder="15" filename="image30027468" width="331" height="186" originwidth="1920" originheight="1080" src="WSB://images\paste38.jpg" previewfile="WSB://images\paste38.jpg" left="529" top="648" lock="1" thumbname="thumb37815781" resamplename="img37815812" exportfilename="images/paste38.jpg"/><Component type="3" id="image6" zorder="16" filename="image30027468" width="331" height="186" originwidth="1920" originheight="1080" src="WSB://images\paste39.jpg" previewfile="WSB://images\paste39.jpg" left="881" top="648" lock="1" thumbname="thumb37815812" resamplename="img37815828" exportfilename="images/paste39.jpg"/><Component type="2" id="text1" zorder="17" filename="text30027468" left="237" top="566" width="211" height="62" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:21px" color="#2493BD" face="Gill Sans MT"&gt;Figura Jhin: Evento &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:21px" color="#2493BD" face="Gill Sans MT"&gt;Bajo el telón&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws16" color="#2493BD" face="Gill Sans MT"&gt;Figura Jhin: Evento &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws16" color="#2493BD" face="Gill Sans MT"&gt;Bajo el telón&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr8AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhAFQ29sb3IEJJO9AAAA
+LTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZw
+YW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMO
+AAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAyIDEgMCAwIDANCkZpZ3VyYSBKaGluOiBF
+dmVudG8gDQpCYWpvIGVsIHRlbPNuDQo=
+</rvf></Component><Component type="2" id="text2" zorder="18" filename="text30027468" left="586" top="567" width="211" height="62" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:21px" color="#2493BD" face="Gill Sans MT"&gt;Colgante de Akali K/DA &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:21px" color="#2493BD" face="Gill Sans MT"&gt;de RockLove&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws16" color="#2493BD" face="Gill Sans MT"&gt;Colgante de Akali K/DA &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws16" color="#2493BD" face="Gill Sans MT"&gt;de RockLove&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr8AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhAFQ29sb3IEJJO9AAAA
+LTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZw
+YW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMO
+AAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAyIDEgMCAwIDANCkNvbGdhbnRlIGRlIEFr
+YWxpIEsvREEgDQpkZSBSb2NrTG92ZQ0K
+</rvf></Component><Component type="2" id="text3" zorder="19" filename="text30027468" left="230" top="851" width="211" height="62" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:21px" color="#2493BD" face="Gill Sans MT"&gt;Florecer espiritual:&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:21px" color="#2493BD" face="Gill Sans MT"&gt;Figura de Riven&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws16" color="#2493BD" face="Gill Sans MT"&gt;Florecer espiritual:&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws16" color="#2493BD" face="Gill Sans MT"&gt;Figura de Riven&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr8AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhAFQ29sb3IEJJO9AAAA
+LTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZw
+YW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMO
+AAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAyIDEgMCAwIDANCkZsb3JlY2VyIGVzcGly
+aXR1YWw6DQpGaWd1cmEgZGUgUml2ZW4NCg==
+</rvf></Component><Component type="2" id="text4" zorder="20" filename="text30027468" left="582" top="846" width="211" height="62" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:21px" color="#2493BD" face="Gill Sans MT"&gt;Vinilos del 10°&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:21px" color="#2493BD" face="Gill Sans MT"&gt;aniversario&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws16" color="#2493BD" face="Gill Sans MT"&gt;Vinilos del 10°&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws16" color="#2493BD" face="Gill Sans MT"&gt;aniversario&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr8AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhAFQ29sb3IEJJO9AAAA
+LTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZw
+YW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMO
+AAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAyIDEgMCAwIDANClZpbmlsb3MgZGVsIDEw
+sA0KYW5pdmVyc2FyaW8NCg==
+</rvf></Component><Component type="2" id="text5" zorder="21" filename="text30027468" left="943" top="564" width="211" height="62" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:21px" color="#2493BD" face="Gill Sans MT"&gt;Sudadera Flores &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:21px" color="#2493BD" face="Gill Sans MT"&gt;Espiritual&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws16" color="#2493BD" face="Gill Sans MT"&gt;Sudadera Flores &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws16" color="#2493BD" face="Gill Sans MT"&gt;Espiritual&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr8AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhAFQ29sb3IEJJO9AAAA
+LTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZw
+YW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMO
+AAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAyIDEgMCAwIDANClN1ZGFkZXJhIEZsb3Jl
+cyANCkVzcGlyaXR1YWwNCg==
+</rvf></Component><Component type="2" id="text6" zorder="22" filename="text30027468" left="938" top="847" width="211" height="62" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:21px" color="#2493BD" face="Gill Sans MT"&gt;Mantas prémium de &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font style="font-size:21px" color="#2493BD" face="Gill Sans MT"&gt;Solo ante el peligro&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws16" color="#2493BD" face="Gill Sans MT"&gt;Mantas prémium de &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font class="ws16" color="#2493BD" face="Gill Sans MT"&gt;Solo ante el peligro&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr8AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAhAFQ29sb3IEJJO9AAAA
+LTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0
+B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZw
+YW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMO
+AAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAyIDEgMCAwIDANCk1hbnRhcyBwcultaXVt
+IGRlIA0KU29sbyBhbnRlIGVsIHBlbGlncm8NCg==
+</rvf></Component></body></page><page id="p21616046" pageindex="5" name="contacto"><body generator="0" bgsoundloop="-1" align="1" backgroundcolor="#32C8FF" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgimage="WSB://images\PruebaFondo.png" bgpreview="WSB://images\PruebaFondo.png" bgoutput="images/PruebaFondo.png"><Component id="g_shape1" zorder="0" global="1"/><Component id="g_image7" zorder="1" global="1"/><Component id="g_image6" zorder="2" global="1"/><Component id="g_image5" zorder="3" global="1"/><Component id="g_image4" zorder="4" global="1"/><Component id="g_text4" zorder="5" global="1"/><Component id="g_text3" zorder="6" global="1"/><Component id="g_text2" zorder="7" global="1"/><Component id="g_image3" zorder="8" global="1"/><Component id="g_text1" zorder="9" global="1"/><Component id="g_image2" zorder="10" global="1"/></body></page><page id="p27479703" pageindex="6" name="splasharts"><body><Component type="16" id="bookmark1" zorder="18" filename="bookmark34855421" bookname="Ahri" width="622" height="403" left="60" top="18" lock="1"/><Component type="16" id="bookmark2" zorder="19" filename="bookmark34889218" bookname="Amumu" width="622" height="403" left="61" top="440" lock="1"/><Component type="16" id="bookmark3" zorder="20" filename="bookmark34923671" bookname="Aurelion" width="622" height="403" left="61" top="862" lock="1"/><Component type="16" id="bookmark4" zorder="21" filename="bookmark34955078" bookname="Alistair" width="622" height="403" left="61" top="1282" lock="1"/><Component type="16" id="bookmark5" zorder="22" filename="bookmark34988421" bookname="Annie" width="622" height="403" left="60" top="1705" lock="1"/><Component type="16" id="bookmark6" zorder="23" filename="bookmark35030515" bookname="Akali" width="622" height="403" left="61" top="2129" lock="1"/><Component type="16" id="bookmark7" zorder="24" filename="bookmark35060359" bookname="Ashe" width="622" height="403" left="61" top="2549" lock="1"/><Component type="16" id="bookmark8" zorder="25" filename="bookmark35082312" bookname="Blitz" width="622" height="403" left="60" top="2971" lock="1"/><Component type="16" id="bookmark9" zorder="26" filename="bookmark35104093" bookname="Braum" width="622" height="403" left="60" top="3395" lock="1"/><Component type="3" id="image10" zorder="0" filename="image34181453" width="686" height="405" originwidth="1215" originheight="717" src="WSB://images\paste42.jpg" previewfile="WSB://images\paste42.jpg" left="60" top="20" lock="1" thumbname="thumb37816687" resamplename="img37816718" exportfilename="images/paste42.jpg"/><Component type="3" id="image1" zorder="16" filename="image34225500" width="685" height="404" originwidth="1215" originheight="717" src="WSB://images\paste43.jpg" previewfile="WSB://images\paste43.jpg" left="60" top="441" lock="1" thumbname="thumb37816718" resamplename="img37816734" exportfilename="images/paste43.jpg"/><Component type="3" id="image6" zorder="14" filename="image34262328" width="686" height="405" originwidth="1215" originheight="717" src="WSB://images\paste44.jpg" previewfile="WSB://images\paste44.jpg" left="60" top="862" lock="1" thumbname="thumb37816734" resamplename="img37816750" exportfilename="images/paste44.jpg"/><Component type="3" id="image9" zorder="12" filename="image34302156" width="687" height="405" originwidth="1215" originheight="717" src="WSB://images\paste45.jpg" previewfile="WSB://images\paste45.jpg" left="59" top="1281" lock="1" thumbname="thumb37816750" resamplename="img37816781" exportfilename="images/paste45.jpg"/><Component type="3" id="image4" zorder="10" filename="image34340796" width="685" height="404" originwidth="1215" originheight="717" src="WSB://images\paste46.jpg" previewfile="WSB://images\paste46.jpg" left="57" top="1705" lock="1" thumbname="thumb37816781" resamplename="img37816796" exportfilename="images/paste46.jpg"/><Component type="3" id="image3" zorder="8" filename="image34399484" width="715" height="402" originwidth="1920" originheight="1080" src="WSB://images\paste47.jpg" previewfile="WSB://images\paste47.jpg" left="59" top="2129" lock="1" thumbname="thumb37816796" resamplename="img37816812" exportfilename="images/paste47.jpg"/><Component type="3" id="image2" zorder="6" filename="image34433468" width="685" height="404" originwidth="1024" originheight="604" src="WSB://images\paste48.jpg" previewfile="WSB://images\paste48.jpg" left="60" top="2548" lock="1" thumbname="thumb37816812" resamplename="img37816843" exportfilename="images/paste48.jpg"/><Component type="3" id="image5" zorder="4" filename="image34468375" width="716" height="403" originwidth="728" originheight="410" src="WSB://images\paste49.jpg" previewfile="WSB://images\paste49.jpg" left="60" top="2971" lock="1" thumbname="thumb37816843" resamplename="img37816843" exportfilename="images/paste49.jpg"/><Component type="3" id="image8" zorder="2" filename="image34497812" width="720" height="405" originwidth="640" originheight="360" src="WSB://images\paste50.jpg" previewfile="WSB://images\paste50.jpg" left="59" top="3396" lock="1" thumbname="thumb37816843" resamplename="img37816875" exportfilename="images/paste50.jpg"/><Component type="2" id="text1" zorder="27" filename="text34591218" left="80" top="214" width="299" height="186" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:24px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;AHRI&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:16px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;La Mujer Zorro de nueve Colas&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:16px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:15px" color="#FFFFFF" face="Gill Sans MT"&gt;Ahri es una vastaya conectada de forma innata al poder latente de Runaterra, y es capaz de convertir la magia en orbes de energía pura. Le gusta jugar con su presa, manipulando sus emociones antes de devorar su esencia de vida. sus emociones antes de devorar su esencia de vida&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws18" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;AHRI&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws12" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;La Mujer Zorro de nueve Colas&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws12" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws11" color="#FFFFFF" face="Gill Sans MT"&gt;Ahri es una vastaya conectada de forma innata al poder latente de Runaterra, y es capaz de convertir la magia en orbes de energía pura. Le gusta jugar con su presa, manipulando sus emociones antes de devorar su esencia de vida. sus emociones antes de devorar su esencia de vida&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoXAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAgsFQ29sb3IHB2NsV2hp
+dGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYMR2lsbCBTYW5z
+IE1UBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xXaGl0ZQABCVN0eWxlTmFtZQYLTm9y
+bWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgxHaWxsIFNhbnMgTVQEU2l6ZQIMBUNvbG9yBwdj
+bFdoaXRlAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwg
+U2FucyBNVARTaXplAgwFU3R5bGULBmZzQm9sZAhmc0l0YWxpYwAFQ29sb3IHB2NsV2hpdGUAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADQgMSAwIDAgMCAwDQpBSFJJDQo2IDEgMCAwIDAg
+MA0KTGEgTXVqZXIgWm9ycm8gZGUgbnVldmUgQ29sYXMNCjUgMSAwIDAgMCAwDQoNCjMgMSAwIDAg
+MCAwDQpBaHJpIGVzIHVuYSB2YXN0YXlhIGNvbmVjdGFkYSBkZSBmb3JtYSBpbm5hdGEgYWwgcG9k
+ZXIgbGF0ZW50ZSBkZSBSdW5hdGVycmEsIHkgZXMgY2FwYXogZGUgY29udmVydGlyIGxhIG1hZ2lh
+IGVuIG9yYmVzIGRlIGVuZXJn7WEgcHVyYS4gTGUgZ3VzdGEganVnYXIgY29uIHN1IHByZXNhLCBt
+YW5pcHVsYW5kbyBzdXMgZW1vY2lvbmVzIGFudGVzIGRlIGRldm9yYXIgc3UgZXNlbmNpYSBkZSB2
+aWRhLiBzdXMgZW1vY2lvbmVzIGFudGVzIGRlIGRldm9yYXIgc3UgZXNlbmNpYSBkZSB2aWRhDQo=
+</rvf></Component><Component type="2" id="text2" zorder="28" filename="text34709859" left="83" top="637" width="299" height="186" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:24px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;AMUMU&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:16px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;La Momia Triste&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:16px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:15px" color="#FFFFFF" face="Gill Sans MT"&gt;Cuenta la leyenda que Amumu es un alma solitaria y melancólica de la vieja Shurima que vaga por el mundo en busca de un amigo. Condenado por una maldición ancestral, su destino es permanecer solo para siempre. &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws18" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;AMUMU&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws12" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;La Momia Triste&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws12" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws11" color="#FFFFFF" face="Gill Sans MT"&gt;Cuenta la leyenda que Amumu es un alma solitaria y melancólica de la vieja Shurima que vaga por el mundo en busca de un amigo. Condenado por una maldición ancestral, su destino es permanecer solo para siempre. &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoXAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAgsFQ29sb3IHB2NsV2hp
+dGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYMR2lsbCBTYW5z
+IE1UBFNpemUCDAVDb2xvcgcHY2xXaGl0ZQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgxHaWxsIFNhbnMgTVQEU2l6ZQIMBVN0eWxlCwZmc0JvbGQIZnNJdGFsaWMA
+BUNvbG9yBwdjbFdoaXRlAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5h
+bWUGDEdpbGwgU2FucyBNVARTaXplAhIFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hpdGUAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADYgMSAwIDAgMCAwDQpBTVVNVQ0KNSAxIDAgMCAw
+IDANCkxhIE1vbWlhIFRyaXN0ZQ0KNCAxIDAgMCAwIDANCg0KMyAxIDAgMCAwIDANCkN1ZW50YSBs
+YSBsZXllbmRhIHF1ZSBBbXVtdSBlcyB1biBhbG1hIHNvbGl0YXJpYSB5IG1lbGFuY/NsaWNhIGRl
+IGxhIHZpZWphIFNodXJpbWEgcXVlIHZhZ2EgcG9yIGVsIG11bmRvIGVuIGJ1c2NhIGRlIHVuIGFt
+aWdvLiBDb25kZW5hZG8gcG9yIHVuYSBtYWxkaWNp824gYW5jZXN0cmFsLCBzdSBkZXN0aW5vIGVz
+IHBlcm1hbmVjZXIgc29sbyBwYXJhIHNpZW1wcmUuIA0K
+</rvf></Component><Component type="2" id="text3" zorder="29" filename="text34715750" left="86" top="1057" width="299" height="186" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:24px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;AURELION SOL&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:16px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;El Forjador de Estrellas&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:16px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:15px" color="#FFFFFF" face="Gill Sans MT"&gt;Aurelion Sol solía agraciar al vasto vacío del cosmos con las maravillas celestiales que él mismo ideaba. Ahora, se ve forzado a hacer uso de su increíble poder para satisfacer los deseos de un imperio espacial que lo ha engañado.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws18" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;AURELION SOL&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws12" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;El Forjador de Estrellas&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws12" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws11" color="#FFFFFF" face="Gill Sans MT"&gt;Aurelion Sol solía agraciar al vasto vacío del cosmos con las maravillas celestiales que él mismo ideaba. Ahora, se ve forzado a hacer uso de su increíble poder para satisfacer los deseos de un imperio espacial que lo ha engañado.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoXAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAgsFQ29sb3IHB2NsV2hp
+dGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYMR2lsbCBTYW5z
+IE1UBFNpemUCDAVDb2xvcgcHY2xXaGl0ZQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgxHaWxsIFNhbnMgTVQEU2l6ZQISBVN0eWxlCwZmc0JvbGQABUNvbG9yBwdj
+bFdoaXRlAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwg
+U2FucyBNVARTaXplAgwFU3R5bGULBmZzQm9sZAhmc0l0YWxpYwAFQ29sb3IHB2NsV2hpdGUAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADUgMSAwIDAgMCAwDQpBVVJFTElPTiBTT0wNCjYg
+MSAwIDAgMCAwDQpFbCBGb3JqYWRvciBkZSBFc3RyZWxsYXMNCjQgMSAwIDAgMCAwDQoNCjMgMSAw
+IDAgMCAwDQpBdXJlbGlvbiBTb2wgc29s7WEgYWdyYWNpYXIgYWwgdmFzdG8gdmFj7W8gZGVsIGNv
+c21vcyBjb24gbGFzIG1hcmF2aWxsYXMgY2VsZXN0aWFsZXMgcXVlIOlsIG1pc21vIGlkZWFiYS4g
+QWhvcmEsIHNlIHZlIGZvcnphZG8gYSBoYWNlciB1c28gZGUgc3UgaW5jcmXtYmxlIHBvZGVyIHBh
+cmEgc2F0aXNmYWNlciBsb3MgZGVzZW9zIGRlIHVuIGltcGVyaW8gZXNwYWNpYWwgcXVlIGxvIGhh
+IGVuZ2HxYWRvLg0K
+</rvf></Component><Component type="2" id="text4" zorder="30" filename="text34725171" left="82" top="1478" width="299" height="186" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:24px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;ALISTAR&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:16px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;El Minotauro&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:16px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:15px" color="#FFFFFF" face="Gill Sans MT"&gt;Alistar, un poderoso guerrero con una reputación temible, busca venganza por la muerte de su clan a manos del imperio noxiano.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws18" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;ALISTAR&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws12" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;El Minotauro&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws12" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws11" color="#FFFFFF" face="Gill Sans MT"&gt;Alistar, un poderoso guerrero con una reputación temible, busca venganza por la muerte de su clan a manos del imperio noxiano.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoXAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAgsFQ29sb3IHB2NsV2hp
+dGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYMR2lsbCBTYW5z
+IE1UBFNpemUCDAVDb2xvcgcHY2xXaGl0ZQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgxHaWxsIFNhbnMgTVQEU2l6ZQIMBVN0eWxlCwZmc0JvbGQIZnNJdGFsaWMA
+BUNvbG9yBwdjbFdoaXRlAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5h
+bWUGDEdpbGwgU2FucyBNVARTaXplAhIFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hpdGUAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADYgMSAwIDAgMCAwDQpBTElTVEFSDQo1IDEgMCAw
+IDAgMA0KRWwgTWlub3RhdXJvDQo0IDEgMCAwIDAgMA0KDQozIDEgMCAwIDAgMA0KQWxpc3Rhciwg
+dW4gcG9kZXJvc28gZ3VlcnJlcm8gY29uIHVuYSByZXB1dGFjafNuIHRlbWlibGUsIGJ1c2NhIHZl
+bmdhbnphIHBvciBsYSBtdWVydGUgZGUgc3UgY2xhbiBhIG1hbm9zIGRlbCBpbXBlcmlvIG5veGlh
+bm8uDQo=
+</rvf></Component><Component type="2" id="text5" zorder="31" filename="text34736437" left="80" top="1899" width="299" height="186" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:24px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;ANNIE&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:16px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;La Hija de la Oscuridad&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:16px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:15px" color="#FFFFFF" face="Gill Sans MT"&gt;Peligrosa pero encantadoramente precoz, Annie es una pequeña maga con un inmenso poder piromántico. Incluso en los parajes montañosos al norte de Noxus es una hechicera sin precedentes.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws18" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;ANNIE&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws12" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;La Hija de la Oscuridad&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws12" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws11" color="#FFFFFF" face="Gill Sans MT"&gt;Peligrosa pero encantadoramente precoz, Annie es una pequeña maga con un inmenso poder piromántico. Incluso en los parajes montañosos al norte de Noxus es una hechicera sin precedentes.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoXAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAgsFQ29sb3IHB2NsV2hp
+dGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYMR2lsbCBTYW5z
+IE1UBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xXaGl0ZQABCVN0eWxlTmFtZQYLTm9y
+bWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgxHaWxsIFNhbnMgTVQEU2l6ZQIMBUNvbG9yBwdj
+bFdoaXRlAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwg
+U2FucyBNVARTaXplAgwFU3R5bGULBmZzQm9sZAhmc0l0YWxpYwAFQ29sb3IHB2NsV2hpdGUAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADQgMSAwIDAgMCAwDQpBTk5JRQ0KNiAxIDAgMCAw
+IDANCkxhIEhpamEgZGUgbGEgT3NjdXJpZGFkDQo1IDEgMCAwIDAgMA0KDQozIDEgMCAwIDAgMA0K
+UGVsaWdyb3NhIHBlcm8gZW5jYW50YWRvcmFtZW50ZSBwcmVjb3osIEFubmllIGVzIHVuYSBwZXF1
+ZfFhIG1hZ2EgY29uIHVuIGlubWVuc28gcG9kZXIgcGlyb23hbnRpY28uIEluY2x1c28gZW4gbG9z
+IHBhcmFqZXMgbW9udGHxb3NvcyBhbCBub3J0ZSBkZSBOb3h1cyBlcyB1bmEgaGVjaGljZXJhIHNp
+biBwcmVjZWRlbnRlcy4NCg==
+</rvf></Component><Component type="2" id="text6" zorder="32" filename="text34740546" left="88" top="2323" width="299" height="186" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:24px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;AKALI&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:16px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;la Asesina Furtiva&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:16px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:15px" color="#FFFFFF" face="Gill Sans MT"&gt;Tras renunciar a la Orden Kinkou y a su título como el Puño de la Sombra, Akali pelea a solas, lista para ser el arma letal que su pueblo necesita. Aunque conserva todo lo que aprendió de su maestro Shen, juró defender a Jonia de sus enemigos.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws18" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;AKALI&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws12" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;la Asesina Furtiva&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws12" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws11" color="#FFFFFF" face="Gill Sans MT"&gt;Tras renunciar a la Orden Kinkou y a su título como el Puño de la Sombra, Akali pelea a solas, lista para ser el arma letal que su pueblo necesita. Aunque conserva todo lo que aprendió de su maestro Shen, juró defender a Jonia de sus enemigos.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoXAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAgsFQ29sb3IHB2NsV2hp
+dGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYMR2lsbCBTYW5z
+IE1UBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xXaGl0ZQABCVN0eWxlTmFtZQYLTm9y
+bWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgxHaWxsIFNhbnMgTVQEU2l6ZQIMBUNvbG9yBwdj
+bFdoaXRlAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwg
+U2FucyBNVARTaXplAgwFU3R5bGULBmZzQm9sZAhmc0l0YWxpYwAFQ29sb3IHB2NsV2hpdGUAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADQgMSAwIDAgMCAwDQpBS0FMSQ0KNiAxIDAgMCAw
+IDANCmxhIEFzZXNpbmEgRnVydGl2YQ0KNSAxIDAgMCAwIDANCg0KMyAxIDAgMCAwIDANClRyYXMg
+cmVudW5jaWFyIGEgbGEgT3JkZW4gS2lua291IHkgYSBzdSB07XR1bG8gY29tbyBlbCBQdfFvIGRl
+IGxhIFNvbWJyYSwgQWthbGkgcGVsZWEgYSBzb2xhcywgbGlzdGEgcGFyYSBzZXIgZWwgYXJtYSBs
+ZXRhbCBxdWUgc3UgcHVlYmxvIG5lY2VzaXRhLiBBdW5xdWUgY29uc2VydmEgdG9kbyBsbyBxdWUg
+YXByZW5kafMgZGUgc3UgbWFlc3RybyBTaGVuLCBqdXLzIGRlZmVuZGVyIGEgSm9uaWEgZGUgc3Vz
+IGVuZW1pZ29zLg0K
+</rvf></Component><Component type="2" id="text7" zorder="33" filename="text34755687" left="82" top="2744" width="299" height="186" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:24px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;ASHE&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:16px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;La Arquera de Hielo&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:16px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:15px" color="#FFFFFF" face="Gill Sans MT"&gt;Ashe, comandante hija del hielo de la tribu de Avarosa, lidera las hordas más numerosas del norte. Impasible, inteligente e idealista, aunque incómoda en su papel de líder.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws18" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;ASHE&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws12" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;La Arquera de Hielo&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws12" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws11" color="#FFFFFF" face="Gill Sans MT"&gt;Ashe, comandante hija del hielo de la tribu de Avarosa, lidera las hordas más numerosas del norte. Impasible, inteligente e idealista, aunque incómoda en su papel de líder.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoXAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAgsFQ29sb3IHB2NsV2hp
+dGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYMR2lsbCBTYW5z
+IE1UBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xXaGl0ZQABCVN0eWxlTmFtZQYLTm9y
+bWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgxHaWxsIFNhbnMgTVQEU2l6ZQIMBUNvbG9yBwdj
+bFdoaXRlAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwg
+U2FucyBNVARTaXplAgwFU3R5bGULBmZzQm9sZAhmc0l0YWxpYwAFQ29sb3IHB2NsV2hpdGUAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADQgMSAwIDAgMCAwDQpBU0hFDQo2IDEgMCAwIDAg
+MA0KTGEgQXJxdWVyYSBkZSBIaWVsbw0KNSAxIDAgMCAwIDANCg0KMyAxIDAgMCAwIDANCkFzaGUs
+IGNvbWFuZGFudGUgaGlqYSBkZWwgaGllbG8gZGUgbGEgdHJpYnUgZGUgQXZhcm9zYSwgbGlkZXJh
+IGxhcyBob3JkYXMgbeFzIG51bWVyb3NhcyBkZWwgbm9ydGUuIEltcGFzaWJsZSwgaW50ZWxpZ2Vu
+dGUgZSBpZGVhbGlzdGEsIGF1bnF1ZSBpbmPzbW9kYSBlbiBzdSBwYXBlbCBkZSBs7WRlci4NCg==
+</rvf></Component><Component type="2" id="text8" zorder="34" filename="text34761281" left="83" top="3167" width="299" height="186" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:24px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;BLITZCRANK&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:16px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;El Gran Gólem de Vapor&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:16px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:15px" color="#FFFFFF" face="Gill Sans MT"&gt;Blitzcrank es un autómata enorme, casi indestructible, creado originalmente para el tratamiento de residuos tóxicos. Sin embargo, este propósito original le parecía demasiado restrictivo, así que se automodificó para servir mejor a los débiles&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws18" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;BLITZCRANK&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws12" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;El Gran Gólem de Vapor&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws12" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws11" color="#FFFFFF" face="Gill Sans MT"&gt;Blitzcrank es un autómata enorme, casi indestructible, creado originalmente para el tratamiento de residuos tóxicos. Sin embargo, este propósito original le parecía demasiado restrictivo, así que se automodificó para servir mejor a los débiles&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoXAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAgsFQ29sb3IHB2NsV2hp
+dGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYMR2lsbCBTYW5z
+IE1UBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xXaGl0ZQABCVN0eWxlTmFtZQYLTm9y
+bWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgxHaWxsIFNhbnMgTVQEU2l6ZQIMBUNvbG9yBwdj
+bFdoaXRlAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwg
+U2FucyBNVARTaXplAgwFU3R5bGULBmZzQm9sZAhmc0l0YWxpYwAFQ29sb3IHB2NsV2hpdGUAAC05
+IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFv
+UmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAA
+AC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADQgMSAwIDAgMCAwDQpCTElUWkNSQU5LDQo2IDEg
+MCAwIDAgMA0KRWwgR3JhbiBH82xlbSBkZSBWYXBvcg0KNSAxIDAgMCAwIDANCg0KMyAxIDAgMCAw
+IDANCkJsaXR6Y3JhbmsgZXMgdW4gYXV0821hdGEgZW5vcm1lLCBjYXNpIGluZGVzdHJ1Y3RpYmxl
+LCBjcmVhZG8gb3JpZ2luYWxtZW50ZSBwYXJhIGVsIHRyYXRhbWllbnRvIGRlIHJlc2lkdW9zIHTz
+eGljb3MuIFNpbiBlbWJhcmdvLCBlc3RlIHByb3Dzc2l0byBvcmlnaW5hbCBsZSBwYXJlY+1hIGRl
+bWFzaWFkbyByZXN0cmljdGl2bywgYXPtIHF1ZSBzZSBhdXRvbW9kaWZpY/MgcGFyYSBzZXJ2aXIg
+bWVqb3IgYSBsb3MgZOliaWxlcw0K
+</rvf></Component><Component type="2" id="text9" zorder="35" filename="text34766593" left="82" top="3573" width="299" height="215" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" lock="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:24px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;BRAUM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:16px" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;El Corazón de Freljord&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Gill Sans MT"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:16px" color="#FFFFFF" face="Gill Sans MT"&gt;Bendecido con bíceps enormes y un corazón aún más grande, Braum es un héroe muy apreciado en Freljord. Todas las tabernas al norte del Fuerte Helado brindan por su fuerza legendaria. Se dice que taló un bosque de robles en una sola noche&lt;/font&gt;&lt;font style="font-size:15px" color="#FFFFFF" face="Gill Sans MT"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws18" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;BRAUM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws12" color="#FFFFFF" face="Gill Sans MT"&gt;&lt;B&gt;&lt;I&gt;El Corazón de Freljord&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Gill Sans MT"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws12" color="#FFFFFF" face="Gill Sans MT"&gt;Bendecido con bíceps enormes y un corazón aún más grande, Braum es un héroe muy apreciado en Freljord. Todas las tabernas al norte del Fuerte Helado brindan por su fuerza legendaria. Se dice que taló un bosque de robles en una sola noche&lt;/font&gt;&lt;font class="ws11" color="#FFFFFF" face="Gill Sans MT"&gt; &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpgAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBhBBcmlhbCBVbmljb2RlIE1TB1VuaWNvZGUJAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwgU2FucyBNVARTaXplAgsFQ29sb3IHB2NsV2hp
+dGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYMR2lsbCBTYW5z
+IE1UBFNpemUCEgVTdHlsZQsGZnNCb2xkAAVDb2xvcgcHY2xXaGl0ZQABCVN0eWxlTmFtZQYLTm9y
+bWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgxHaWxsIFNhbnMgTVQEU2l6ZQIMBUNvbG9yBwdj
+bFdoaXRlAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEdpbGwg
+U2FucyBNVAVDb2xvcgcHY2xXaGl0ZQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQI
+CEZvbnROYW1lBgxHaWxsIFNhbnMgTVQEU2l6ZQIMBVN0eWxlCwZmc0JvbGQIZnNJdGFsaWMABUNv
+bG9yBwdjbFdoaXRlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0
+IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJ
+cnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdu
+bWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJs
+ZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50
+UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA0IDEgMCAwIDAgMA0K
+QlJBVU0NCjcgMSAwIDAgMCAwDQpFbCBDb3JhevNuIGRlIEZyZWxqb3JkDQo2IDEgMCAwIDAgMA0K
+DQo1IDEgMCAwIDAgMA0KQmVuZGVjaWRvIGNvbiBi7WNlcHMgZW5vcm1lcyB5IHVuIGNvcmF6824g
+YfpuIG3hcyBncmFuZGUsIEJyYXVtIGVzIHVuIGjpcm9lIG11eSBhcHJlY2lhZG8gZW4gRnJlbGpv
+cmQuIFRvZGFzIGxhcyB0YWJlcm5hcyBhbCBub3J0ZSBkZWwgRnVlcnRlIEhlbGFkbyBicmluZGFu
+IHBvciBzdSBmdWVyemEgbGVnZW5kYXJpYS4gU2UgZGljZSBxdWUgdGFs8yB1biBib3NxdWUgZGUg
+cm9ibGVzIGVuIHVuYSBzb2xhIG5vY2hlDQozIDEgLTEgMSAwIDANCiANCg==
+</rvf></Component><Component type="4" id="shape1" zorder="1" filename="shape35667328" width="323" height="224" bgcolor="#000913" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shapeBEH3S.gif" left="60" top="201" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" lock="1" exportfilename="images/shape35667328.gif"/><Component type="4" id="shape2" zorder="17" filename="shape35797296" width="323" height="224" bgcolor="#000913" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shapeP1OEJ.gif" left="59" top="622" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" lock="1" exportfilename="images/shape35797296.gif"/><Component type="4" id="shape3" zorder="15" filename="shape35857546" width="323" height="224" bgcolor="#000913" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shapeF9KPB.gif" left="60" top="1043" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" lock="1" exportfilename="images/shape35857546.gif"/><Component type="4" id="shape4" zorder="13" filename="shape35877515" width="323" height="224" bgcolor="#000913" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shapeQL0PB.gif" left="58" top="1463" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" lock="1" exportfilename="images/shape35877515.gif"/><Component type="4" id="shape5" zorder="11" filename="shape35918000" width="323" height="224" bgcolor="#000913" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shapeCJSCL.gif" left="56" top="1885" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" lock="1" exportfilename="images/shape35918000.gif"/><Component type="4" id="shape6" zorder="9" filename="shape35924781" width="339" height="224" bgcolor="#000913" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shapeB7CDD.gif" left="58" top="2307" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" lock="1" exportfilename="images/shape35924781.gif"/><Component type="4" id="shape7" zorder="7" filename="shape35948609" width="323" height="224" bgcolor="#000913" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shape6F2IH.gif" left="60" top="2729" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" lock="1" exportfilename="images/shape35948609.gif"/><Component type="4" id="shape8" zorder="5" filename="shape35951734" width="323" height="224" bgcolor="#000913" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shapeKTNID.gif" left="60" top="3151" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" lock="1" exportfilename="images/shape35951734.gif"/><Component type="4" id="shape9" zorder="3" filename="shape35953781" width="326" height="240" bgcolor="#000913" previewfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\shapeCU7H0.gif" left="59" top="3562" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" lock="1" exportfilename="images/shape35953781.gif"/></body></page><page id="p29199515" pageindex="7" name="muestrarioProductos"><body><Component type="3" id="image1" zorder="0" filename="image29242250" width="1279" height="719" originwidth="1920" originheight="1080" src="WSB://images\paste40.jpg" previewfile="WSB://images\paste40.jpg" left="13" top="754" thumbname="thumb37816968" resamplename="img37816984" exportfilename="images/paste40.jpg"/><Component type="16" id="bookmark2" zorder="1" filename="bookmark29310046" bookname="Jhin" width="1280" height="720" left="13" top="754"/><Component type="3" id="image2" zorder="2" filename="image29413031" left="1196" top="772" width="80" height="80" originwidth="1013" originheight="1013" src="WSB://images\PikPng.com_cancel-sign-png_1535108.png" resample="1" previewfile="WSB://images\PikPng.com_cancel-sign-png_1535108.png" linkurl="page://p29199515#Vacio" linktype="_self" tempfile="C:\Users\SOVIET~1\AppData\Local\Temp\Web Page Maker\docO72VV\imgDS265.png" thumbname="thumb37816984" resamplename="img37817000" exportfilename="images/img37817000.png"/></body></page></site>
